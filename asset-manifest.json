@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memeGenerator/static/css/main.34d68f68.css",
+    "main.js": "/memeGenerator/static/js/main.ac01496f.js",
+    "static/js/787.876f76cf.chunk.js": "/memeGenerator/static/js/787.876f76cf.chunk.js",
+    "index.html": "/memeGenerator/index.html",
+    "main.34d68f68.css.map": "/memeGenerator/static/css/main.34d68f68.css.map",
+    "main.ac01496f.js.map": "/memeGenerator/static/js/main.ac01496f.js.map",
+    "787.876f76cf.chunk.js.map": "/memeGenerator/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d68f68.css",
+    "static/js/main.ac01496f.js"
+  ]
+}
